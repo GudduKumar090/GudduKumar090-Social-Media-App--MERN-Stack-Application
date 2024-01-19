@@ -1,1 +1,1 @@
-# GudduKumar090-Social-Media-App--MERN-Stack-Application
+Social-Media-App--MERN-Stack-Application
